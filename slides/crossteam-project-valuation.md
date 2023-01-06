@@ -25,8 +25,6 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 
 
----
-
 ## 概要
 
 会社の収益に直接的な影響を提供していないクロスチームのインナーソースプロジェクトの価値を評価して社内に売り込むことは困難です。

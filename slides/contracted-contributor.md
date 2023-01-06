@@ -11,7 +11,7 @@ theme: base
 ## コントラクトコントリビューター
 
 Speaker: Yuki Hattor
-Pattern Author: < Name or name**s** >
+Pattern Author: Georg Grütter (Robert Bosch GmbH)
 
 ---
 
@@ -21,11 +21,6 @@ paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
-
-
-
-
----
 
 ## 概要
 
@@ -95,42 +90,6 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 ## 事例
 
 - BIOS at Robert Bosch GmbH
-
----
-
-## ステータス
-
-* Structured
-
----
-
-## 著者
-
-- Georg Grütter (Robert Bosch GmbH)
-
----
-
-## 謝辞
-
-- Diogo Fregonese (Robert Bosch GmbH)
-- Robert Hansel (Robert Bosch GmbH)
-- Jim Jagielski
-- Tim Yao
-- Cedric Williams
-- Klaas-Jan Stol
-- Padma Sudarsan
-- Nick Stahl
-- Ofer Hermoni
-- Robert C. Hanmer
-
----
-
-## Changelog
-
-- **2016-10-25** - first review
-- **2017-05-09** - rework
-- **2017-09-08** - second review, final rework and merged
-- **2021-02-27** - fixing issues with display of the pattern in the book
 
 ---
 
