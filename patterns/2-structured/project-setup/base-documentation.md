@@ -61,7 +61,7 @@ contain:
 * A "Who we are" section explaining who the [Trusted Committers](../trusted-committer.md) behind the project are - with an explanation that instead of contacting these people privately the public communication channels above should be used for communication.
 * An explanation of what the criteria are for the project to turn contributors into Trusted Committers - if that path exists.
 
-![README.md](../../../assets/img/standard-base-documentation/README-for-users.png)
+![bg right:33% width:100%](../assets/img/standard-base-documentation/README-for-users.png)
 
 ### CONTRIBUTING.md
 
@@ -79,7 +79,7 @@ topics:
 * How to submit your modifications back to the project.
 * Some information on which turnaround time to expect for modifications made.
 
-![CONTRIBUTING.md](../../../assets/img/standard-base-documentation/CONTRIBUTING-for-contributors.png)
+![bg right:33% width:100%](../assets/img/standard-base-documentation/CONTRIBUTING-for-contributors.png)
 
 There are many of good examples for how to write a `README.md` and what kind
 of information to include in a `CONTRIBUTING.md` file in various open source projects.

@@ -70,7 +70,7 @@ GitHub API で取得できる自動化された KPI は、全ての事柄のう�
 
 ## スケッチ
 
-![リポジトリ活性度スコアのエコシステム](../../../assets/img/repository_activity_score.png)
+![bg right:33% width:100%](../assets/img/repository_activity_score.png)
 
 こちらはリポジトリアクティビティスコアの計算と適用をまとめたものです。詳しくは、[結果の状況](#結果の状況)をご覧ください。
 

@@ -91,7 +91,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 インナーソースポータルの[参考実装](https://github.com/SAP/project-portal-for-innersource)はGitHub上で公開されており、コントリビューションを受け付けています。これは、インタラクティブで使いやすい方法で、組織のすべてのインナーソースプロジェクトを一覧表示します。プロジェクトはGitHubの専用トピックを使って自己登録し、追加のメタデータを提供することができます。
 
-![Example of an InnerSource Portal](../../../assets/img/portal-overview.png "Example of an InnerSource Portal")
+![bg right:33% width:100%](../assets/img/portal-overview.png "Example of an InnerSource Portal")
 
 ---
 
@@ -118,7 +118,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 * **Banco Santander**社は、インナーソースをサポートして増やすために、[Santander ONE Europe InnerSource Community](https://innersourceportal.santander.com/)という公開ポータルを作成しました。このポータルには、プロジェクトのカタログに加え、ドキュメント、仕事の進め方、ニュース、イベントなどの関連コンテンツが含まれています。
 
-![Santander InnerSource Portal](../../../assets/img/santander_portal.png "Banco Santander InnerSource Portal")
+![bg right:33% width:100%](../assets/img/santander_portal.png "Banco Santander InnerSource Portal")
 
 ---
 

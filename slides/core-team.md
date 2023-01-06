@@ -98,7 +98,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 これらのメトリックに継続的に焦点を当てることで、コアチームは自然と、プロジェクトの周りに繁栄するインナーソースエコシステムを作成するための適切な作業に優先順位を付けるようになります。
 
-![Responsibilities of Core Team and InnerSource Contributors](../../../assets/img/core-team.png)
+![bg right:33% width:100%](../assets/img/core-team.png)
 
 ---
 

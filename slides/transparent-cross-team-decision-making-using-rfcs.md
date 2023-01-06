@@ -72,7 +72,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ## スケッチ
 
-![RFC process used at Uber's BaseUI project (open source example)](../../../assets/img/rfc-process-uber-baseui.png)
+![bg right:33% width:100%](../assets/img/rfc-process-uber-baseui.png)
 
 ---
 
@@ -99,7 +99,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 ### Examples/Templates
 
 - [Rust][rust] は RFC テンプレートとプロセスの優れたオープンソース例であり、他の多くの RFC プロセスの基礎となっています。
-- [一般化された BBC iPlayer & Sounds RFC テンプレート](../../../patterns/2-structured//templates/rfc.md) (元々はRustテンプレートに基づいています)
+- [一般化された BBC iPlayer & Sounds RFC テンプレート](../patterns/2-structured//templates/rfc.md) (元々はRustテンプレートに基づいています)
 
 ---
 

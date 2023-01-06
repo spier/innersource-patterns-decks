@@ -73,7 +73,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 - ガバナンスオフィスは、コントリビューターと直属のマネジャーの間で時間に関するコンフリクトが生じた場合、その仲介を行うことを提案します。
 - [正式なコミュニティリーダー](dedicated-community-leader.md)は、20%以上の活動をインナーソースに充てている契約コントリビューターのパフォーマンスレビューに参加するか、意見を提供します。
 
-![Contracted Contributor](../../../assets/img/contracted-contributor.png)
+![bg right:33% width:100%](../assets/img/contracted-contributor.png)
 
 ---
 
