@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## クロスチームプロジェクト評価
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: クロスチームプロジェクト評価'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-クロスチームプロジェクト評価
+
 
 ---
 
-## Patlet
+## 概要
 
 会社の収益に直接的な影響を提供していないクロスチームのインナーソースプロジェクトの価値を評価して社内に売り込むことは困難です。
 ここでは、あなたのプロジェクトの価値を明確に表現し、それを大きくするためのデータ駆動型の方法を紹介します
@@ -148,6 +148,11 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-03** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

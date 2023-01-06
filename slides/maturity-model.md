@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## 成熟度モデル
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: 成熟度モデル'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-成熟度モデル
+
 
 ---
 
-## Patlet
+## 概要
 
 チームはインナーソースを採用し始めました。このプラクティスは、複数の部門に広がっています。しかし、インナーソースプロジェクトを構成する概念への理解は様々です。解決策は、チームがセルフチェックを経て、まだ気づいていないパターンやプラクティスを発見できるよう、成熟度モデルを提供することです。
 
@@ -271,6 +271,11 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-03** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

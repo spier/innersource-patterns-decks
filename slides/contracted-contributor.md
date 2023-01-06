@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## コントラクトコントリビューター
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: コントラクトコントリビューター'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-コントラクトコントリビューター
+
 
 ---
 
-## Patlet
+## 概要
 
 インナーソースにコントリビュートしたい社員がいますが、彼らの直属の上司はその活動に抵抗を示しています。正式な契約と合意をすることによって救済することができるかもしれません。
 
@@ -134,6 +134,11 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-06** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

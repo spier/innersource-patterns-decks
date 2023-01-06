@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## コミュニケーションツーリング
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: コミュニケーションツーリング'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-コミュニケーションツーリング
+
 
 ---
 
-## Patlet
+## 概要
 
 インナーソースのプロジェクトは、開発チームの外で使用されていますが、ユーザーはヘルプを得たり、プロジェクトチームと連絡を取ったりするのに苦労しています。 このアイデアは、ディスカッションが可視化され、アーカイブされ、検索可能になることを可能にする標準的なコミュニケーションツールを設定し、文書化することです。
 
@@ -103,7 +103,11 @@ Isabel Drost-Fromm
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-06** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-13** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

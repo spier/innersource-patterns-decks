@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## 基本原則ガイダンスの文書化
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: 基本原則ガイダンスの文書化'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-基本原則ガイダンスの文書化
+
 
 ---
 
-## Patlet
+## 概要
 
 「オープンソースのベストプラクティスを組織内に適用する」という通常のインナーソースの説明は、オープンソースのバックグラウンドがない人々にはうまく機能しません。
 解決策として、インナーソースの最も重要な原則を文書化し広く公開しましょう。
@@ -263,7 +263,11 @@ Structured
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-02** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-13** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

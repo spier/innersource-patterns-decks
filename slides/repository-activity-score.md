@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## リポジトリアクティビティスコア
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: リポジトリアクティビティスコア'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-リポジトリアクティビティスコア
+
 
 ---
 
-## Patlet
+## 概要
 
 潜在的なコントリビューターは、彼らの助けを必要とするアクティブなインナーソースプロジェクトを見つけたいと思っています。各プロジェクトのリポジトリのアクティビティスコアを計算することで、プロジェクトのランク付けされたリストを作成することができます (参考: [インナーソースポータル](innersource-portal.md) )、そのため、潜在的コントリビューターは、彼らがコントリビュートしたいプロジェクトをより簡単に決定できます。
 
@@ -184,7 +184,11 @@ InnerSource Commons Community の迅速なアドバイス、そしてこのパ�
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-07** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-21** - レビュー [@hirotakatoya](https://github.com/hirotakatoya)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

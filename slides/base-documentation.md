@@ -8,26 +8,21 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## スタンダード・ベース・ドキュメンテーション
 
 Speaker: Yuki Hattor
-Pattern Author: < Name or name**s** >
+Pattern Author: Isabel Drost-Fromm
 
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: スタンダード・ベース・ドキュメンテーション'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
-
-スタンダード・ベース・ドキュメンテーション
-
----
-
-## Patlet
+## 概要
 
 インナーソースプロジェクトへの新しいコントリビューターは、誰がプロジェクトを維持し、何に取り組み、どのようにコントリビューションすればよいかを理解するのに苦労しています。`README.md`/`CONTRIBUTING.md` のような標準ファイルでドキュメントを提供することで、新しいコントリビューターのためのセルフサービスなプロセスを可能にし、よくある質問に対する答えを自分自身で見つけることができるようにします。
 
@@ -115,25 +110,6 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## 著者
-
-* Isabel Drost-Fromm
-
----
-
-## その他の呼び方
-
-Provide standard base documentation through a README
-
----
-
-## ステータス
-
-* Structured
-* Drafted in December 2019.
-
----
-
 ## リファレンス
 
 * [README-template.md](../templates/README-template.md) and
@@ -141,7 +117,11 @@ Provide standard base documentation through a README
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-01** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-13** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

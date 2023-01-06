@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## ギグマーケットプレイス
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: ギグマーケットプレイス'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-ギグマーケットプレイス
+
 
 ---
 
-## Patlet  
+## 概要  
 
 イントラネットのウェブサイトを作成し、特定のインナーソースプロジェクトのニーズを、時間とスキルの要件を明示した「ギグ」としてリストアップすることで、マーケットプレイスを確立する。
 これにより、管理者がインナーソースのコントリビューションを行うための承認を与え可能性が増え、従業員の時間のコミットメントと専門的な利点をよりよく理解することができます。
@@ -120,7 +120,11 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-06** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-13** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

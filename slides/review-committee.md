@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## レビュー委員会
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: レビュー委員会'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-レビュー委員会
+
 
 ---
 
-## Patlet
+## 概要
 
 インナーソースの作業モデルは、開発者と管理者のための、より伝統的なアプローチからの抜本的な変革です。インナーソースイニシアチブとそれに参加するビジネスユニットのすべてのシニアマネージャーの間のインタフェースとしてレビュー委員会を確立することにより、マイクロマネジメントを助長することなく、監視と制御の一定レベルを与えるように、イニシアチブに慣れ親しみ、それをサポートできるようになる可能性が高くなります。
 
@@ -102,7 +102,11 @@ Cheese Interface
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-02** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-15** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

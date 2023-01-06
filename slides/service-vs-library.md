@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## サービス対ライブラリ
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,17 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: サービス対ライブラリ'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-サービス対ライブラリ
 
 ---
 
-## Patlet
+## 概要
 
 DevOps環境のチームは、サービスのダウンタイムに対応する責任が誰にあるのかが曖昧になるため、チームの境界を越えて共通のコードベースで作業することに消極的になる場合があります。解決策としては、同じサービスを独立した環境で展開し、サービスダウン時のエスカレーション・チェーンを別々に構築するか、多くの共有コードを1つのライブラリに集約し、その上で共同作業を行うことが挙げられます。
 
@@ -123,7 +122,11 @@ Tobias Gesellchenさん、Europace AGの内部レビューをありがとうご�
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-06** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-13** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

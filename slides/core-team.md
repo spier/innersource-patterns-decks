@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## コアチーム
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: コアチーム'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-コアチーム
+
 
 ---
 
-## Patlet
+## 概要
 
 インナーソースのプロジェクトが広く必要とされていても、プロジェクトが難しいためにコントリビューションや活用に支障をきたす場合があります。プロジェクトの基本的な項目を専門に担当するコアチームを設立してください。コアチームの作業により、コントリビューターは自分のシナリオに価値をもたらす機能を追加し、使用することができます。
 
@@ -138,7 +138,11 @@ Structured
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-01** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-21** - レビュー [@hirotakatoya](https://github.com/hirotakatoya)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

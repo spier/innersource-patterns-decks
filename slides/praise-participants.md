@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## コントリビューションの功労を称える
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: コントリビューションの功労を称える'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-コントリビューションの功労を称える
+
 
 ---
 
-## Patlet
+## 概要
 
 インナーソースのコントリビューションの後、その時間と努力に対してコントリビューターに感謝することは重要です。
 このパターンは、コントリビューションを効果的に認めるだけでなく、コントリビューターや他の人たちのさらなる関与を引き出すためのガイダンスを提供します。
@@ -129,7 +129,11 @@ Andy さんの活動の中で修正していただいた _rcs-viewer_ は、お�
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-06** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-15** - レビュー [@hirotakatoya](https://github.com/hirotakatoya)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP

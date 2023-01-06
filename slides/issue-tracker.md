@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## < Title >
+## イシュートラッカーの使い方を多様化する
 
 Speaker: Yuki Hattor
 Pattern Author: < Name or name**s** >
@@ -16,18 +16,18 @@ Pattern Author: < Name or name**s** >
 ---
 
 <!--
-header: '**InnerSource Patterns**: < Title >'
+header: '**InnerSource Patterns**: イシュートラッカーの使い方を多様化する'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
 
-イシュートラッカーの使い方を多様化する
+
 
 ---
 
-## Patlet
+## 概要
 
 インナーソースのホストチームは、計画や進捗だけでなく、変更の背景も透明化することができていません。これは、プロジェクトのイシュートラッカーのユースケースを増やし、ブレーンストーミング、実装の議論、機能設計にも使えるようにすることで解決することができます。
 
@@ -94,7 +94,11 @@ Structured
 
 ---
 
-## 翻訳の履歴
+## InnerSource についてもっと知る
 
-- **2022-06-06** - 翻訳 [Yuki Hattori](https://github.com/yuhattor)
-- **2022-06-13** - レビュー [@kanazawazawa](https://github.com/kanazawazawa)
+InnerSource Patterns: https://patterns.innersourcecommons.org
+Slack Community: https://innersourcecommons.org/slack
+Twitter: @InnerSourceOrg
+
+日本語 Slack チャンネル: ```#jp-general```
+日本語 Twitter: @InnerSourceJP
