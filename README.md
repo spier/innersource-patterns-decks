@@ -16,7 +16,7 @@ npx marp --pdf --theme theme/base.css -o output/tmp.pdf --allow-local-files slid
 - [x] 30-day-warranty.md
 - [x] base-documentation.md
 - [x] common-requirements.md
-- [ ] communication-tooling.md
+- [x] communication-tooling.md
 - [ ] contracted-contributor.md
 - [ ] core-team.md
 - [ ] crossteam-project-valuation.md
@@ -34,4 +34,4 @@ npx marp --pdf --theme theme/base.css -o output/tmp.pdf --allow-local-files slid
 - [ ] start-as-experiment.md
 - [ ] templates
 - [ ] transparent-cross-team-decision-making-using-rfcs.md
-- [ ] trusted-committer.md
+- [*] trusted-committer.md
