@@ -22,8 +22,6 @@ class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
-
-
 ---
 
 ## 概要
