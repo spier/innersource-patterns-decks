@@ -15,15 +15,13 @@ Pattern Author: < Name or name**s** >
 
 ---
 
+
 <!--
 header: '**InnerSource Patterns**: < Title >'
 paginate: true
 class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
-
-
-
 
 ## InnerSource についてもっと知る
 
