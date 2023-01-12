@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## イシュートラッカーの使い方を多様化する :TBD
+## イシュートラッカーの使い方を多様化する
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm

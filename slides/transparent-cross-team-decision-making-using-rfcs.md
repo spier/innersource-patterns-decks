@@ -6,12 +6,15 @@ theme: base
 
 <!-- _class: cover lead -->
 
-# InnerSource Patterns :TBD
+# InnerSource Patterns
 
 ## RFCを用いたチーム横断的な意思決定の透明化
 
 Speaker: [Yuki Hattori]() (@yuhattor)
-Pattern Author: < Name or name**s** >
+Pattern Authors:
+
+* Tom Sadler
+* Sebastian Spier
 
 ---
 
@@ -24,27 +27,42 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ## 概要
 
-高い参加率を達成し、関係者全員にとって最良の意思決定を行いたいインナーソースプロジェクトは、ソフトウェアのライフサイクル全体を通して参加型のシステムを構築する方法を見つける必要があります。内部のRFC(Requests for Comments)ドキュメントを公開することで、設計プロセスの早い段階から議論を行うことができ、関係者全員が高いコミットメントを持ってソリューションを構築できる可能性が高まります。
+* インナーソースプロジェクトで最良の意思決定を行い、参加率を高めるには、ソフトウェアライフサイクル全体で参加型のシステムを構築する方法を見つける必要があります。
+* 内部のRFCドキュメントを公開することで、設計プロセスの早い段階から議論を行い、関係者全員が高いコミットメントでソリューションを構築できる可能性が高まります。
 
 ---
 
 ## 問題
 
+* インナーソースプロジェクトが健全であるためには、相当な数のコントリビューターが必要です。
+* しかし、コントリビューターが増えると、互いに互換性のない機能をプロジェクトに追加したり、アーキテクチャを不健全に肥大化させる可能性があります。
+* プロセスの後半で意見の相違を発見した場合、修正に高いコストがかかります。
+* これは関係者のフラストレーションにつながり、プロジェクトのコラボレーション文化を損なう可能性があります。
+* 社内の複数のチームによって維持される場合、不一致の発生が頻繁になるかもしれません(共有オーナーシップ)
+
+<!--
 インナーソースプロジェクトが健全であるためには、相当な数のコントリビューターが必要です。しかし、コントリビューターが増えると、例えば互いに互換性のない機能をプロジェクトに追加したり、アーキテクチャを不健全に肥大化させたりする可能性があります。
 このような意見の相違や誤解をプロセスの後半で発見した場合、特にソフトウェアがすでに構築された後では、修正に非常にコストがかかってしまいます。このような意見の相違は、関係者全員のフラストレーションにつながり、プロジェクトにおけるコラボレーション文化の健全性を損なう可能性さえあります。
 このような不一致が表面化する時によくあるケースとして、変更リクエストの作成者とプロジェクトのメンテナーが、提案された変更を行うべきであるということに本質的に同意していないために、非常に長い間オープンになっている変更リクエスト(プルリクエスト) が存在するなどがあります。
-
 インナーソースプロジェクトでは、社内の複数のチームによってプロジェクトが維持されている場合、このような状況がより頻繁に発生します(共有オーナーシップ)。
+-->
 
 ---
 
 ## ケーススタディ
 
+* プロジェクトやアプリケーションは異なるチームによって維持され、各チームはそれぞれの異なる領域を所有し管理します。
+* 分野横断的な変更は、チームの技術リーダーが協力することによってのみ推進されるか、もしくはそもそも発生しないため、イノベーションやコラボレーションの機会が減少します。
+* RFCのプロセスを導入することで、大規模で横断的な変更を提案する権限を与えられ、イノベーションやコラボレーションが促進されます。
+* 変更に必要な賛同やオープンなアイデア提案、議論をする環境が必要で、継続的に改善されなければならない
+
+<!--
 プロジェクト、または複数のプロジェクトで構成されるアプリケーションは、多くの異なるチームによって維持され、各チームはプロジェクトまたはアプリケーションの異なる領域を所有し管理します。これらのチームは、お互いの領域にインナーソースの貢献をしますが、より大きな分野横断的な変更は、チームの技術リーダーが協力することによってのみ推進されるか、もしくはそもそもまったく発生しません。その結果、ほとんどのエンジニアは大規模で分野横断的な変更を行うことができなくなり、イノベーションとコラボレーションの機会が減少します。
 
 ここで RFC のプロセスとテンプレートを導入することで、チームや個人は、透明性のある意思決定プロセスを通じて、大規模で横断的な変更を提案する権限を与えられ、チーム間で非同期的に協議が行われます。その結果、イノベーションが促進され、コラボレーションが緊密になり、知識がより広まることになります。このためには、あらゆるレベルのあらゆる分野から賛同を得ること、そして人々がオープンにアイデアを提案し、議論できるような心理的安全性の高い環境を整えることが必要です。
 
 どのようなプロセスでもそうですが、これは継続的に改善されなければなりません。RFC のテンプレートやプロセスを変更して、包括的、協調的、かつ効果的なものにする必要があるかもしれません。
+-->
 
 ---
 
@@ -65,9 +83,9 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## スケッチ
+### スケッチ
 
-![bg right:33% width:85%](../assets/img/rfc-process-uber-baseui.png)
+![bg right:76% width:95%](../assets/img/rfc-process-uber-baseui.png)
 
 ---
 
@@ -82,27 +100,29 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
   * RFC の作成者に、自分の提案を多角的に検討するよう促す必要があります。
   * ハイレベルでアクセスしやすい概要と、詳細で深い説明の両方を促す必要があります。
 * RFC を取り巻くよく知られた軽量なプロセス
-  * RFC を公開し、すべての関係者と共有する方法 (例: Slack、メーリングリスト)
-  * RFC に対するフィードバックをどのように収集するか
-  * どのようにフィードバックを取り込むか
-  * 結論や決定に向けて RFC をどのように進めるか (例: 関連する指名されたメンテナーが承認すること)
-  * 適切なツールの選択 (例: 非エンジニアはソースコントロールツールにアクセスできないかもしれません)
+  * RFC を公開し、すべての関係者と共有する方法
+  * RFC に対するフィードバックをどのように収集するか、またどのようにフィードバックを取り込むか
+  * 結論や決定に向けて RFC をどのように進めるか
+  * 適切なツールの選択
 * RFC のテンプレートとプロセスを繰り返し使用することを約束すること
 
+<!--
+  * RFC を公開し、すべての関係者と共有する方法 (例: Slack、メーリングリスト)
+  * 結論や決定に向けて RFC をどのように進めるか (例: 関連する指名されたメンテナーが承認すること)
+  * 適切なツールの選択 (例: 非エンジニアはソースコントロールツールにアクセスできないかもしれません)
+-->
 ---
 
 ### Examples/Templates
 
-- [Rust][rust] は RFC テンプレートとプロセスの優れたオープンソース例であり、他の多くの RFC プロセスの基礎となっています。
-- [一般化された BBC iPlayer & Sounds RFC テンプレート](../patterns/2-structured//templates/rfc.md) (元々はRustテンプレートに基づいています)
+* [Rust][rust] は RFC テンプレートとプロセスの優れたオープンソース例であり、他の多くの RFC プロセスの基礎となっています。
+* [一般化された BBC iPlayer & Sounds RFC テンプレート](../patterns/2-structured//templates/rfc.md) (元々はRustテンプレートに基づいています)
 
 ---
 
 ## 結果の状況
 
-RFC のようなプロセスを導入することで、チーム横断的な意思決定プロセスがより透明化され、すべての人の声を聞くことができるようになり、価値があることが証明されました。
-
-観察できるポジティブな効果
+RFC のようなプロセスを導入することで、チーム横断的な意思決定プロセスがより透明化され、すべての人の声を聞くことができるようになり、価値があることが証明されました。 以下は効果の一例です。
 
 * 多くのチームに影響を与える**意思決定プロセスを民主化**します(チームリーダーの負担を軽減)。
 * 複数のチームや地域にまたがって機能する**オープンな非同期コミュニケーション手法**になります。
@@ -113,15 +133,19 @@ RFC のようなプロセスを導入することで、チーム横断的な意�
 * **プロセスの整合性**を図ります。 例えば時間外サポートのプロセスを明示するなどが挙げられます。
 * RFC を書くことで、著者が自分自身に挑戦することになり、**思考がより明確に**なります。
 
+<!--
+## 結果の状況 - 注意喚起
+
 一方で RFC のアプローチにはリスクも存在しますので、以下に注意も喚起したいと思います。
 
 * この方法はいつもうまくいくとは限りません。例えば、RFCを通じてすでになされた決定に対して異議を唱える人がいるかもしれません。しかし、意思決定のプロセスを文書化しておくことは、このようなシナリオでも有益です。ある決定がいつ、なぜなされたかを人々に示すことができるからです。
 * 設計案 (アーキテクチャ、プロトコルなど) を前もって書き上げることは、ウォーターフォールのような設計の要素があり、多くの開発チームが好む反復的なアジャイルの開発アプローチには適さない場合があります。[アジャイルマニュフェスト](https://agilemanifesto.org/)に存在する「括的なドキュメントよりも、動くソフトウェアを」という項目は覚えておいてください。RFC プロセスは可能な限り軽量であるべきです。
 * RFC は大きくなりすぎて扱いにくくなる可能性があります。これはしばしば、長いコメントスレッドやそれをめぐる議論に表れます。そのような状況では、ワーキンググループや直接のミーティングなど、同期的なコミュニケーションで RFC を補完することを決定することもあります。しかし、ミーティング中にすべての情報を共有するのではなく、ミーティングの前に RFC を読むことができるので、時間はいずれにせよ節約されていることになります。
 
+-->
 ---
 
-## 理論的解釈
+## その他
 
 RFCは、長年にわたってオープンソースの世界でその効果が証明されてきました。これは、RFCが標準の開発に役立ってきたインターネット全体にも当てはまるほか([例: RFCの30年を参照][30-years-of-rfcs])、コミュニティにおける透明な意思決定を促進するためにこの方法を適応させてきたその他のオープンソースプロジェクト([RUST][rust], [ZeroMQ][zeromq])にも当てはまります。
 
@@ -140,33 +164,10 @@ RFCは、長年にわたってオープンソースの世界でその効果が�
 
 ---
 
-## ステータス
-
-Structured
-
----
-
-## 著者
-
-* Tom Sadler
-* Sebastian Spier
-
----
-
 ## その他の呼び方
 
-* [デザインとキュメント][google]
+* [デザインドキュメント][google]
 * アーキテクチャの決定記録(ADR: Architecture Decision Record) - 意見を求め、合意を形成するための RFCです。決定と実装の詳細を記録するための ADR など、非常に異なる使い方をすることがあるため、必ずしも直接的な類例ではありません。
-
-[requests-for-comments]: https://en.wikipedia.org/wiki/Request_for_Comments
-[30-years-of-rfcs]: https://www.rfc-editor.org/rfc/rfc2555.txt
-[rust]: https://github.com/rust-lang/rfcs
-[zeromq]: https://rfc.zeromq.org
-[uber]: https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
-[europace]: https://github.com/open-organization/open-org-distributed-work-guide/blob/master/drostfromm-remote-first-through-openess.md#setting-cross-team-standards-and-best-practices-in-the-open
-[open-decision-framework]: https://www.redhat.com/en/about/press-releases/red-hat-releases-open-decision-framework-spur-transparent-and-inclusive-leadership
-[bbc]: https://www.youtube.com/watch?v=U6zlghE0HcE
-[google]: https://www.industrialempathy.com/posts/design-docs-at-google/
 
 ---
 
@@ -179,3 +180,13 @@ Twitter: @InnerSourceOrg
 
 日本語 Slack チャンネル: ```#jp-general```
 日本語 Twitter: @InnerSourceJP
+
+[requests-for-comments]: https://en.wikipedia.org/wiki/Request_for_Comments
+[30-years-of-rfcs]: https://www.rfc-editor.org/rfc/rfc2555.txt
+[rust]: https://github.com/rust-lang/rfcs
+[zeromq]: https://rfc.zeromq.org
+[uber]: https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
+[europace]: https://github.com/open-organization/open-org-distributed-work-guide/blob/master/drostfromm-remote-first-through-openess.md#setting-cross-team-standards-and-best-practices-in-the-open
+[open-decision-framework]: https://www.redhat.com/en/about/press-releases/red-hat-releases-open-decision-framework-spur-transparent-and-inclusive-leadership
+[bbc]: https://www.youtube.com/watch?v=U6zlghE0HcE
+[google]: https://www.industrialempathy.com/posts/design-docs-at-google/

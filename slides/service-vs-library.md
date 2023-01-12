@@ -93,12 +93,6 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## その他の呼び方
-
-サービス対ライブラリ: インナーデプロイメントではなくインナーソース
-
----
-
 ## InnerSource についてもっと知る
 
 InnerSource Commons: https://innersourcecommons.org
