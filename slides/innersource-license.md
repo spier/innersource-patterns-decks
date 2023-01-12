@@ -139,8 +139,9 @@ DB 社の中で最初の法人(企業) は、このインナーソース ライ�
 
 ## InnerSource についてもっと知る
 
+InnerSource Commons: https://innersourcecommons.org
+Join our Slack community: https://innersourcecommons.org/slack
 InnerSource Patterns: https://patterns.innersourcecommons.org
-Slack Community: https://innersourcecommons.org/slack
 Twitter: @InnerSourceOrg
 
 日本語 Slack チャンネル: ```#jp-general```
