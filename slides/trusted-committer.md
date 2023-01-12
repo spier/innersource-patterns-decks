@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# トラステッドコミッター
 
-## トラステッドコミッター
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Fernando Freire
@@ -16,10 +19,10 @@ Pattern Author: Fernando Freire
 ---
 
 <!--
-header: '**InnerSource Patterns**: トラステッドコミッター'
+header: '**InnerSource Patterns: トラステッドコミッター**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

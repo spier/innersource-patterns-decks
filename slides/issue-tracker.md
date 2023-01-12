@@ -4,11 +4,15 @@ theme: base
 ---
 
 
-<!-- _class: cover lead -->
+<!--
+class: isccover
+-->
 
-# InnerSource Patterns
+![bg cover](../assets/img/isccover2.png)
 
-## イシュートラッカーの使い方を多様化する
+# イシュートラッカーの使い方を多様化する
+
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm
@@ -16,10 +20,10 @@ Pattern Author: Isabel Drost-Fromm
 ---
 
 <!--
-header: '**InnerSource Patterns**: イシュートラッカーの使い方を多様化する'
+header: '**InnerSource Patterns: イシュートラッカーの使い方を多様化する**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

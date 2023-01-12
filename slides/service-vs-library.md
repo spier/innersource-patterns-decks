@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# サービス対ライブラリ
 
-## サービス対ライブラリ
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Authors:
@@ -19,10 +22,10 @@ Pattern Authors:
 ---
 
 <!--
-header: '**InnerSource Patterns**: サービス対ライブラリ'
+header: '**InnerSource Patterns: サービス対ライブラリ**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 ## 概要
 

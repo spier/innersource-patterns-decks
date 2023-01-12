@@ -2,13 +2,15 @@
 marp: true
 theme: base
 ---
+<!--
+class: isccover
+-->
 
+![bg cover](../assets/img/isccover2.png)
 
-<!-- _class: cover lead -->
+# ベース・ドキュメンテーション
 
-# InnerSource Patterns
-
-## スタンダード・ベース・ドキュメンテーション
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm
@@ -16,10 +18,10 @@ Pattern Author: Isabel Drost-Fromm
 ---
 
 <!--
-header: '**InnerSource Patterns**: スタンダード・ベース・ドキュメンテーション'
+header: '**InnerSource Patterns: スタンダード・ベース・ドキュメンテーション**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

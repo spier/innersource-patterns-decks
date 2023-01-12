@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# 成熟度モデル
 
-## 成熟度モデル
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Authors:
@@ -21,10 +24,10 @@ Pattern Authors:
 ---
 
 <!--
-header: '**InnerSource Patterns**: 成熟度モデル'
+header: '**InnerSource Patterns: 成熟度モデル**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

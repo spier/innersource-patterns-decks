@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# リポジトリアクティビティスコア
 
-## リポジトリアクティビティスコア
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Michael Graf (SAP)
@@ -16,10 +19,10 @@ Pattern Author: Michael Graf (SAP)
 ---
 
 <!--
-header: '**InnerSource Patterns**: リポジトリアクティビティスコア'
+header: '**InnerSource Patterns: リポジトリアクティビティスコア**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

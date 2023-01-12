@@ -4,11 +4,15 @@ theme: base
 ---
 
 
-<!-- _class: cover lead -->
+<!--
+class: isccover
+-->
 
-# InnerSource Patterns
+![bg cover](../assets/img/isccover2.png)
 
-## 共通要件
+# 共通要件
+
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Robert Hanmer
@@ -16,10 +20,10 @@ Pattern Author: Robert Hanmer
 ---
 
 <!--
-header: '**InnerSource Patterns**: 共通要件'
+header: '**InnerSource Patterns: 共通要件**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

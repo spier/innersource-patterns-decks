@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# インナーソースポータル
 
-## インナーソースポータル
+## InnerSource Patterns
 
 Speaker: **Yuki Hattor**
 Pattern Author: Stephen McCall
@@ -16,10 +19,10 @@ Pattern Author: Stephen McCall
 ---
 
 <!--
-header: '**InnerSource Patterns**: インナーソースポータル'
+header: '**InnerSource Patterns: インナーソースポータル**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

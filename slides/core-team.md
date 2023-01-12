@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# コアチーム
 
-## コアチーム
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Russ Rutledge
@@ -16,10 +19,10 @@ Pattern Author: Russ Rutledge
 ---
 
 <!--
-header: '**InnerSource Patterns**: コアチーム'
+header: '**InnerSource Patterns: コアチーム**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

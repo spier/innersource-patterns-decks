@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# コントラクトコントリビューター
 
-## コントラクトコントリビューター
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Georg Grütter (Robert Bosch GmbH)
@@ -16,10 +19,10 @@ Pattern Author: Georg Grütter (Robert Bosch GmbH)
 ---
 
 <!--
-header: '**InnerSource Patterns**: コントラクトコントリビューター'
+header: '**InnerSource Patterns: コントラクトコントリビューター**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

@@ -2,29 +2,31 @@
 marp: true
 theme: base
 ---
+<!--
+class: isccover
+-->
 
+![bg cover](../assets/img/isccover2.png)
 
-<!-- _class: cover lead -->
+# 30日の保証期間
 
-# InnerSource Patterns
+## InnerSource Patterns
 
-## 30日の保証期間
-
-Speaker: [Yuki Hattori]() (@yuhattor)
+Speaker: [**Yuki Hattori**]() (@yuhattor)
 Pattern Author: Cedric Williams
 
 ---
 
 <!--
-header: '**InnerSource Patterns**: 30日の保証期間'
+header: '**InnerSource Patterns: 30日の保証期間**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要
 
-"30日の保証期間"プラクティスを利用すれば、自分のチーム以外からのコントリビューションを受け入れる際に、コードを書いていないチームが責任を持つことに対する抵抗を軽減できます。このプラクティスを利用すると、コードを受け取ったチームはコントリビュートしたチームに対してバグフィックスを提供することを承諾することになります。その結果、両チーム間の信頼度が高まり、コントリビューションがより積極的に受け入れられる可能性があります。
+30日の保証期間プラクティスを利用すれば、自分のチーム以外からのコントリビューションを受け入れる際に、コードを書いていないチームが責任を持つことに対する抵抗を軽減できます。このプラクティスを利用すると、コードを受け取ったチームはコントリビュートしたチームに対してバグフィックスを提供することを承諾することになります。その結果、両チーム間の信頼度が高まり、コントリビューションがより積極的に受け入れられる可能性があります。
 
 ---
 

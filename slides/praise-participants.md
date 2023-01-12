@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# コントリビューションの功労を称える
 
-## コントリビューションの功労を称える
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Russ Rutledge
@@ -16,10 +19,10 @@ Pattern Author: Russ Rutledge
 ---
 
 <!--
-header: '**InnerSource Patterns**: コントリビューションの功労を称える'
+header: '**InnerSource Patterns: コントリビューションの功労を称える**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

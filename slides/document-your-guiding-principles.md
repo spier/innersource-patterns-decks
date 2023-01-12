@@ -2,11 +2,15 @@
 marp: true
 theme: base
 ---
-<!-- _class: cover lead -->
+<!--
+class: isccover
+-->
 
-# InnerSource Patterns
+![bg cover](../assets/img/isccover2.png)
 
-## 基本原則ガイダンスの文書化
+# 基本原則ガイダンスの文書化
+
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Authors:
@@ -17,10 +21,10 @@ Pattern Authors:
 ---
 
 <!--
-header: '**InnerSource Patterns**: 基本原則ガイダンスの文書化'
+header: '**InnerSource Patterns: 基本原則ガイダンスの文書化**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要

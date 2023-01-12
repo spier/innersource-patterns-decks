@@ -3,12 +3,15 @@ marp: true
 theme: base
 ---
 
+<!--
+class: isccover
+-->
 
-<!-- _class: cover lead -->
+![bg cover](../assets/img/isccover2.png)
 
-# InnerSource Patterns
+# コミュニケーションツーリング
 
-## コミュニケーションツーリング
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm
@@ -16,10 +19,10 @@ Pattern Author: Isabel Drost-Fromm
 ---
 
 <!--
-header: '**InnerSource Patterns**: コミュニケーションツーリング'
+header: '**InnerSource Patterns: コミュニケーションツーリング**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 

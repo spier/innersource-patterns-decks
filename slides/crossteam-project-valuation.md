@@ -2,21 +2,26 @@
 marp: true
 theme: base
 ---
-<!-- _class: cover lead -->
 
-# InnerSource Patterns
+<!--
+class: isccover
+-->
 
-## クロスチームプロジェクト評価
+![bg cover](../assets/img/isccover2.png)
+
+# クロスチームプロジェクト評価
+
+## InnerSource Patterns
 
 Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Russ Rutledge
 
 ---
 <!--
-header: '**InnerSource Patterns**: クロスチームプロジェクト評価'
+header: '**InnerSource Patterns: クロスチームプロジェクト評価**'
 paginate: true
 class: slides
-footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
+footer: '@yuhattor'
 -->
 
 ## 概要
