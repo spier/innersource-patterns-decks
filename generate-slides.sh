@@ -12,5 +12,6 @@ do
     # 拡張子を取り除く
     base=${filename%.*}
     # ファイル名を出力する
-    npx marp --pdf --allow-local-files slides/$base.md --theme theme/base.css -o output/$base.pdf
+    npx marp --pptx --allow-local-files slides/$base.md --theme theme/base.css -o output/$base.pptx
+    # npx marp --pdf --allow-local-files slides/$base.md --theme theme/base.css -o output/$base.pdf
 done
