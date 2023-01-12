@@ -10,7 +10,7 @@ theme: base
 
 ## RFCを用いたチーム横断的な意思決定の透明化
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: < Name or name**s** >
 
 ---

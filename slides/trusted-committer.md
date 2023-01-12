@@ -10,7 +10,7 @@ theme: base
 
 ## トラステッドコミッター
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Fernando Freire
 
 ---

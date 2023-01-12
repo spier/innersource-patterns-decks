@@ -10,7 +10,7 @@ theme: base
 
 ## スタンダード・ベース・ドキュメンテーション
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm
 
 ---

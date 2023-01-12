@@ -10,7 +10,7 @@ theme: base
 
 ## コアチーム
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Russ Rutledge
 
 ---

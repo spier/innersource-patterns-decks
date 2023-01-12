@@ -10,7 +10,7 @@ theme: base
 
 ## 正式なコミュニティリーダー
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Authors:
 
 * Georg Grütter (Robert Bosch GmbH)

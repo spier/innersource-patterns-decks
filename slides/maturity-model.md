@@ -10,8 +10,8 @@ theme: base
 
 ## 成熟度モデル
 
-Speaker: Yuki Hattor
-Pattern Author:
+Speaker: [Yuki Hattori]() (@yuhattor)
+Pattern Authors:
 
 * Daniel Izquierdo Cortazar
 * Isabel Drost-Fromm

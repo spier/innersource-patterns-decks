@@ -10,7 +10,7 @@ theme: base
 
 ## 30日の保証期間
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Cedric Williams
 
 ---

@@ -10,7 +10,7 @@ theme: base
 
 ## インナーソースライセンス
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Authors:
 
 * Cornelius Schumacher (DB Systel GmbH)

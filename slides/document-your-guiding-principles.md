@@ -8,7 +8,7 @@ theme: base
 
 ## 基本原則ガイダンスの文書化
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Authors:
 
 * Isabel Drost-Fromm

@@ -8,7 +8,7 @@ theme: base
 
 ## クロスチームプロジェクト評価
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Russ Rutledge
 
 ---

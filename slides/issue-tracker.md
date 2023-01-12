@@ -10,7 +10,7 @@ theme: base
 
 ## イシュートラッカーの使い方を多様化する :TBD
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm
 
 ---

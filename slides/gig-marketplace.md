@@ -10,8 +10,8 @@ theme: base
 
 ## ギグマーケットプレイス
 
-Speaker: Yuki Hattor
-Pattern Author:
+Speaker: [Yuki Hattori]() (@yuhattor)
+Pattern Authors:
 
 * Stephen McCall
 * Shreyans Dugar

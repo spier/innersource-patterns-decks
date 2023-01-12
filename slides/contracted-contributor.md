@@ -10,7 +10,7 @@ theme: base
 
 ## コントラクトコントリビューター :TBD
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Georg Grütter (Robert Bosch GmbH)
 
 ---

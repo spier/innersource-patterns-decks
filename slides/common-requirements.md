@@ -10,7 +10,7 @@ theme: base
 
 ## 共通要件
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Robert Hanmer
 
 ---

@@ -11,9 +11,7 @@ theme: base
 ## インナーソースポータル
 
 Speaker: **Yuki Hattor**
-Pattern Author:
-
-* Stephen McCall
+Pattern Author: Stephen McCall
 
 ---
 

@@ -10,7 +10,7 @@ theme: base
 
 ## コントリビューションの功労を称える
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Russ Rutledge
 
 ---

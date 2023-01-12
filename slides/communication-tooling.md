@@ -10,7 +10,7 @@ theme: base
 
 ## コミュニケーションツーリング
 
-Speaker: Yuki Hattor
+Speaker: [Yuki Hattori]() (@yuhattor)
 Pattern Author: Isabel Drost-Fromm
 
 ---
