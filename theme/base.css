@@ -46,10 +46,6 @@ section.maturitymodel li{
   margin-left: -40px;
 }
 
-section.isccover *{
-  font-family: "PT Sans", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
-}
-
 section.isccover h1{
   padding-top: 200px;
   margin-left: 60px;
@@ -61,13 +57,14 @@ section.isccover h2{
   margin-top: -20px;
   margin-left: 60px;
 }
-section.isccover p, li{
+section.isccover p {
   margin-left:60px;
 }
 section.isccover ul{
   margin-top: -16px;
 }
 section.isccover li{
+  margin-left:60px;
   line-height: 20px;
 }
 
