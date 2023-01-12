@@ -115,7 +115,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ### CONTRIBUTING.md
 
-![bg right:33% width:100%](../patterns/2-structured/project-setup/assets/base_docs_drawing.png)
+![bg right:33% width:85%](../patterns/2-structured/project-setup/assets/base_docs_drawing.png)
 
 様々なオープンソースプロジェクトにおいて、README.md の書き方や、CONTRIBUTING.md ファイルにどのような情報を含めるべきかについての良い例がたくさんあります
 

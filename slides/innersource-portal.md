@@ -10,8 +10,10 @@ theme: base
 
 ## インナーソースポータル
 
-Speaker: Yuki Hattor
-Pattern Author: < Name or name**s** >
+Speaker: **Yuki Hattor**
+Pattern Author:
+
+* Stephen McCall
 
 ---
 
@@ -24,7 +26,8 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ## 概要
 
-潜在的なコントリビューターは、彼らが興味を持っているインナーソースプロジェクトを簡単に見つけることができません。すべての利用可能なインナーソースプロジェクトの情報をインデックス化するイントラネットのウェブサイトを作成することにより、あなたはコントリビューターが彼らに興味があるかもしれないプロジェクトについて知ることができ、インナーソースプロジェクトのオーナーは、外部のオーディエンスを引き付けることができます。
+潜在的なコントリビューターは、彼らが興味を持っているインナーソースプロジェクトを簡単に見つけることができません。
+すべての利用可能なインナーソースプロジェクトの情報をインデックス化するイントラネットのウェブサイトを作成することにより、あなたはコントリビューターが彼らに興味があるかもしれないプロジェクトについて知ることができ、インナーソースプロジェクトのオーナーは、外部のオーディエンスを引き付けることができます。
 
 ---
 
@@ -38,11 +41,12 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ## ケーススタディ
 
-あなたは、組織内のインナーソースプラクティスを確立しようとしています。 あなたは、いくつかのプロジェクトがインナーソースモデルを使用して運用されていることを知っていますが、それらの存在は、他の社員の口コミ、電子メールまたは立ち話を介してのみ伝達されています。 結果としてインナーソースプロジェクトのオーナーは、コントリビューターを引き付けることに困難を感じています。
-
-現在、組織全体の従業員がアクセスできる単一の共有リソースはなく、進行中のすべてのインナーソースプロジェクトを簡単に見つけることはできません。このことは、すべてのインナーソースプロジェクトの成長の可能性を大幅に制限しています。
-
-すべてのインナーソースプロジェクトが、できるだけ多くのオーディエンスにビジビリティを発揮し、組織全体のコントリビューターを引き付けるためには何ができるでしょうか？
+* 組織内のインナーソースプラクティスを確立しようとしています
+* 運用中のプロジェクトがインナーソースモデルを使用しているが、その存在は口コミ、電子メール、立ち話などでのみ伝達されています
+* インナーソースプロジェクトのオーナーがコントリビューターを引き付けることに困難を感じています
+* 組織全体の従業員がアクセスできる単一の共有リソースはなく、進行中のすべてのインナーソースプロジェクトを簡単に見つけることはできません
+* インナーソースプロジェクトの成長の可能性が大幅に制限されています
+* すべてのインナーソースプロジェクトができるだけ多くのオーディエンスにビジビリティを発揮し、組織全体のコントリビューターを引き付けるためには何ができるでしょうか？
 
 ---
 
@@ -72,6 +76,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 ---
 
 ## ソリューション
+TBD
 
 インナーソースプロジェクトのオーナーがプロジェクトの利用可能性を簡単に宣伝できるインナーソースポータルイントラウェブサイトを作成します。
 
@@ -82,11 +87,13 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 * プロジェクトのオーナーは、プロジェクト名、トラステッドコミッターの名前、簡単な説明とコードリポジトリまたは任意のサポートドキュメントへのリンクを含むそれらのデータファイル内のプロジェクトに関するすべての関連情報を含める必要があります。
 * (*オプション)ほとんどの組織は、ポータルをイントラネットでのみ利用できるようにすることを選択しますが、いくつかの組織は、ポータルを公共のインターネット上で利用できるようにすることを選択しました。後者は、例えばブランディングや採用の目的で、ポータルにインナーソースのアプローチに関する追加情報を表示したい組織にとって興味深いものになるでしょう。
 
+<!--
 ポータルを立ち上げる際には、ポータル内に表示されるプロジェクトの数を増やすために、インナーソースのデータファイルやコードリポジトリへのメタデータの追加を促進するコミュニケーションキャンペーンを検討する必要があります。
 
 インナーソースポータルの[参考実装](https://github.com/SAP/project-portal-for-innersource)はGitHub上で公開されており、コントリビューションを受け付けています。これは、インタラクティブで使いやすい方法で、組織のすべてのインナーソースプロジェクトを一覧表示します。プロジェクトはGitHubの専用トピックを使って自己登録し、追加のメタデータを提供することができます。
+-->
 
-![bg right:33% width:100%](../assets/img/portal-overview.png "Example of an InnerSource Portal")
+![bg right:33% width:85%](../assets/img/portal-overview.png "Example of an InnerSource Portal")
 
 ---
 
@@ -99,48 +106,39 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ---
 
-## 事例
 
-* **大手金融サービス組織**は、異なるビジネスユニット間で存在するインナーソースプロジェクトを宣伝し、発見する仕組みを提供するためにインナーソースポータルを使用しています。
+## 事例: SAP
+
 * **SAP**はインナーソースポータルでインナーソースプロジェクトを推進しています。 プロジェクトはGitHubトピックを使用して自己登録することができます。[リポジトリアクティビティスコア](repository-activity-score.md) は、ポータル内のインナーソースプロジェクトのデフォルトの順序を定義しています。 また、SAP における事例はこちらもご参照ください[Michael Graf & Harish B (SAP) at ISC.S11 - The Unexpected Path of Applying InnerSource Patterns](https://www.youtube.com/watch?v=6r9QOw9dcQo&list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy&index=6)。 コードベースは[リファレンス実装](https://github.com/SAP/project-portal-for-innersource) として公開されており、コントリビューションのためにオープンになっています。
+
+---
+
+## 事例: Elbit Systems
+
 * **Elbit Systems**はこのパターンを使い、さらにゲーミフィケーションを上乗せしています。
   * [文化変革の手段としてのゲーミフィケーションとインナーソースのエンゲージメントブースター](https://www.oreilly.com/library/view/oscon-2018-/9781492026075/video321579.html) | Shelly Nizri | OSCON 2018 - Portland, Oregon
   * Of Islands, Monsters & InnerSource [(slides)](https://docs.google.com/presentation/d/1P1OCEK9B6eSrVRUclVWY6meSI-qHOBjM_UAPNvCZamU/edit#slide=id.p15), [(video)](https://drive.google.com/file/d/1pM89uHMn0vhE3ayFJDGYcCO8R0tAXXZD/view?usp=drivesdk) | InnerSource Spring Summit 2019 (Galway, Ireland)
 
   このプラットフォームを実現するコードはオープンソース化されており、[gitlab.com/gilda2](https://gitlab.com/gilda2)にて公開されています。
 
+---
+
+## 事例: アメリカン航空
+
 * **アメリカン航空**は、[インターナルインナーソースマーケットプレイス](https://tech.aa.com/2020-10-30-innersource/)を介してInnerSourceプロジェクトを推進しています。SAPと同様に、プロジェクトはGitHubのトピックとして `innersource` を追加することで自己登録されます。プロジェクトは、言語、トピック、オープンイシューの数などで検索やフィルタリングが可能です。
+---
+
+## 事例: Banco Santander
 
 * **Banco Santander**社は、インナーソースをサポートして増やすために、[Santander ONE Europe InnerSource Community](https://innersourceportal.santander.com/)という公開ポータルを作成しました。このポータルには、プロジェクトのカタログに加え、ドキュメント、仕事の進め方、ニュース、イベントなどの関連コンテンツが含まれています。
 
-![bg right:33% width:100%](../assets/img/santander_portal.png "Banco Santander InnerSource Portal")
+![bg right:33% width:90%](../assets/img/santander_portal.png "Banco Santander InnerSource Portal")
 
 ---
 
 ## リファレンス
 
 * インナーソースポータルパターンは[インナーソースギグマーケットプレイス](./gig-marketplace.md) のパターンと一緒に使うと非常によく機能することが証明されています。
-
----
-
-## ステータス
-
-* Structured
-
----
-
-## 著者
-
-* Stephen McCall
-
----
-
-## 謝辞
-
-* Shelly Nizri
-* Melinda Malmgren
-* Michael Graf
-* Jesús Alonso Gutierrez
 
 ---
 

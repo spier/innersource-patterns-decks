@@ -67,7 +67,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 ## スケッチ
 
-![bg right:33% width:100%](../assets/img/rfc-process-uber-baseui.png)
+![bg right:33% width:85%](../assets/img/rfc-process-uber-baseui.png)
 
 ---
 

@@ -9,7 +9,10 @@ theme: base
 ## 基本原則ガイダンスの文書化
 
 Speaker: Yuki Hattor
-Pattern Authors: Isabel Drost-Fromm, Georg Grütter
+Pattern Authors:
+
+* Isabel Drost-Fromm
+* Georg Grütter
 
 ---
 
@@ -244,7 +247,7 @@ BoschのインナーソースイニシアチブBIOSは以下の原則を持ち�
 * **自己決定**: BIOSコミュニティは、何に取り組むか、いつ取り組むか、どのようなツールやプロセスを使って取り組むかを自由に選択することができます
 * **功績至上主義**: BIOSプロジェクトメンバーには、その功績に基づいて、つまりコントリビューションの質と量に基づいて権力が付与されます
 
-![bg right:33% width:100%](../assets/img/bios-principles.png)
+![bg right:33% width:85%](../assets/img/bios-principles.png)
 
 <!--
  (BIOS: Bosch Internal Open Source) 

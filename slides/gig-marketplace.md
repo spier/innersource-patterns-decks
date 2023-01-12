@@ -11,7 +11,10 @@ theme: base
 ## ギグマーケットプレイス
 
 Speaker: Yuki Hattor
-Pattern Author: Stephen McCall, Shreyans Dugar
+Pattern Author:
+
+* Stephen McCall
+* Shreyans Dugar
 
 ---
 

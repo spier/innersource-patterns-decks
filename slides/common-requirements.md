@@ -77,7 +77,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 さらに、サプライヤーに要件の解明を助けてほしい顧客を活用します。 コンポーネントを変更するのではなく、顧客との交渉中に要件の調整を行い、顧客の要件に影響を与えます。
 上記の例では、サプライヤーは両方の顧客が同じことを望んでいることを認識できるように支援し、同じ形式で結果を受け入れることに同意すれば、すべての人の労力(およびお金)を節約できます。
 
-![bg right:33% width:100%](../assets/img/CommonReqtsv2.jpg)
+![bg right:33% width:85%](../assets/img/CommonReqtsv2.jpg)
 
 ---
 

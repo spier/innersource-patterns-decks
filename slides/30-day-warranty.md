@@ -60,7 +60,7 @@ footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 
 さらに、受け入れ側のチームとコントリビュートする側のチームの期待値を明記した、明確な[コントリビューションのガイドライン](./base-documentation.md)を提供することも役に立ちます。
 
-![bg right:33% width:100%](../assets/img/thirtydaywarranty.jpg)
+![bg right:33% width:85%](../assets/img/thirtydaywarranty.jpg)
 
 ---
 

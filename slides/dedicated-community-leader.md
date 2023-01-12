@@ -11,7 +11,10 @@ theme: base
 ## 正式なコミュニティリーダー
 
 Speaker: Yuki Hattor
-Pattern Authors: Georg Grütter (Robert Bosch GmbH), Diogo Fregonese (Robert Bosch GmbH)
+Pattern Authors:
+
+* Georg Grütter (Robert Bosch GmbH)
+* Diogo Fregonese (Robert Bosch GmbH)
 
 ---
 
