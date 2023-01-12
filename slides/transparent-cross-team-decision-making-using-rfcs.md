@@ -6,7 +6,7 @@ theme: base
 
 <!-- _class: cover lead -->
 
-# InnerSource Patterns
+# InnerSource Patterns :TBD
 
 ## RFCを用いたチーム横断的な意思決定の透明化
 

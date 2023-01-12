@@ -6,7 +6,7 @@ theme: base
 
 <!-- _class: cover lead -->
 
-# InnerSource Patterns
+# InnerSource Patterns :TBD
 
 ## サービス対ライブラリ
 

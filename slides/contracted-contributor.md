@@ -8,7 +8,7 @@ theme: base
 
 # InnerSource Patterns
 
-## コントラクトコントリビューター
+## コントラクトコントリビューター :TBD
 
 Speaker: Yuki Hattor
 Pattern Author: Georg Grütter (Robert Bosch GmbH)

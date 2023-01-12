@@ -6,12 +6,12 @@ theme: base
 
 <!-- _class: cover lead -->
 
-# InnerSource Patterns
+# InnerSource Patterns :TBD
 
 ## リポジトリアクティビティスコア
 
 Speaker: Yuki Hattor
-Pattern Author: < Name or name**s** >
+Pattern Author: Michael Graf (SAP)
 
 ---
 
@@ -95,38 +95,7 @@ function calculateScore(repo) {
     iScore += repo.stargazers_count / 3;
     iScore += repo.open_issues_count / 5;
 
-    // 過去3ヶ月以内に更新されたもの：総合スコアに0～1の乗数を加える（1＝本日更新、0＝100日以上前に更新されたもの）
-    let iDaysSinceLastUpdate = (new Date().getTime() - new Date(repo.updated_at).getTime()) / 1000 / 86400;
-    iScore = iScore * ((1 + (100 - Math.min(iDaysSinceLastUpdate, 100))) / 100);
-
-    // 過去3ヶ月の参加状況を評価する
-    repo._InnerSourceMetadata = repo._InnerSourceMetadata || {};
-    if (repo._InnerSourceMetadata.participation) {
-        // average commits: adds a bonus multiplier between 0..1 to overall score (1 = >10 commits per week, 0 = less than 3 commits per week)
-        let iAverageCommitsPerWeek = repo._InnerSourceMetadata.participation.slice(-13).reduce((a, b) => a + b) / 13;
-        iScore = iScore * ((1 + (Math.min(Math.max(iAverageCommitsPerWeek - 3, 0), 7))) / 7);
-    }
-
-    // boost calculation:
-    // all repositories updated in the previous year will receive a boost of maximum 1000 declining by days since last update
-    let iBoost = (1000 - Math.min(iDaysSinceLastUpdate, 365) * 2.74);
-    // gradually scale down boost according to repository creation date to mix with "real" engagement stats
-    let iDaysSinceCreation = (new Date().getTime() - new Date(repo.created_at).getTime()) / 1000 / 86400;
-    iBoost *= (365 - Math.min(iDaysSinceCreation, 365)) / 365;
-    // add boost to score
-    iScore += iBoost;
-    // give projects with a meaningful description a static boost of 50
-    iScore += (repo.description?.length > 30 || repo._InnerSourceMetadata.motivation?.length > 30 ? 50 : 0);
-    // 貢献ガイドライン(CONTRIBUTING.md)ファイルを持つプロジェクトに、100の加算点を固定して加える。
-    iScore += (repo._InnerSourceMetadata.guidelines ? 100 : 0);
-    // 非常に活発なプロジェクトは、対数スケールで構成する（発散的だが5000前後で安定する）
-    if (iScore > 3000) {
-        iScore = 3000 + Math.log(iScore) * 100;
-    }
-    // 最終スコアは0から始まる四捨五入された整数とする（初期値を差し引いた値）
-    iScore = Math.round(iScore - 50);
-    // メタデータにスコアを直接追加する
-    repo._InnerSourceMetadata.score = iScore;
+    ...
 
     return iScore;
 }
@@ -159,23 +128,6 @@ function calculateScore(repo) {
 ## ステータス
 
 * Structured
-
----
-
-## # 著者
-
-[Michael Graf (SAP)](mailto:mi.graf@sap.com)
-
----
-
-## 謝辞
-
-InnerSource Commons Community の迅速なアドバイス、そしてこのパターンを養うための多くの有益な意見に感謝します!
-
-* Johannes Tigges
-* Sebastian Spier
-* Maximilian Capraro
-* Tim Yao
 
 ---
 
