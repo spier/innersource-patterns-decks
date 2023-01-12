@@ -9,7 +9,7 @@ theme: base
 ## 基本原則ガイダンスの文書化
 
 Speaker: Yuki Hattor
-Pattern Author: Isabel Drost-Fromm, Georg Grütter
+Pattern Authors: Isabel Drost-Fromm, Georg Grütter
 
 ---
 
