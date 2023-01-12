@@ -22,9 +22,6 @@ class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
-
-
-
 ## 概要
 
 同じ組織に属する2つの法人は、ソフトウェアのソースコードを互いに共有したいと考えていますが、法的責任や会社間の会計処理の観点からの影響を懸念しています。

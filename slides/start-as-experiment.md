@@ -22,9 +22,6 @@ class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
-
-
-
 ## 概要
 
 インナーソースイニシアチブを期間限定の実験として開始し、インナーソースに慣れていないマネージャーがイニシアチブを承認およびサポートしやすくします。

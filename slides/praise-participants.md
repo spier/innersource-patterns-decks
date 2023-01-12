@@ -22,9 +22,6 @@ class: slides
 footer: '[Yuki Hattori (@yuhattor)](https://twitter.com/yuhattor)'
 -->
 
-
-
-
 ## 概要
 
 インナーソースのコントリビューションの後、その時間と努力に対してコントリビューターに感謝することは重要です。
