@@ -18,7 +18,7 @@ Pattern Author: Isabel Drost-Fromm
 ---
 
 <!--
-header: '**InnerSource Patterns: スタンダード・ベース・ドキュメンテーション**'
+header: '**InnerSource Patterns: ベース・ドキュメンテーション**'
 paginate: true
 class: slides
 footer: '@yuhattor'
@@ -84,7 +84,7 @@ footer: '@yuhattor'
 * プロジェクトにコントリビュートする方法に関するドキュメント - またはそれへのリンク
 * プロジェクトがどのようなアクセス可能なパブリックもしくはアーカイブのコミュニケーションチャネルを用いているかを説明する "Getting involved" セクション。
 * プロジェクトを支える [トラステッドコミッター](./trusted-committer.md)が誰であるかを説明する "Who we are" のセクション。
-* プロジェクトが貢献者を信頼されるコミッターにするための基準の説明。
+* プロジェクトが貢献者をトラステッドコミッターにするための基準の説明。
 * コントリビューターがそのプロジェクトにおけるトラステッドコミッターになるための基準及び、そのパスが存在するならばそのパス
 
 <!--
