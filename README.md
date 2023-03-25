@@ -1,14 +1,17 @@
 # Patterns to Slides
 
+## Requirements
+
+To run the commands below you need [Node.js](https://nodejs.org/) 14 and later.
+
 ## Generation command
 
 ```sh
+# PPTX
+npx @marp-team/marp-cli@latest --pptx --theme theme/base.css -o output/tmp.pptx --allow-local-files slides/base-documentation.md
 
 # PDF
-npx marp --pptx --theme theme/base.css -o output/tmp.pptx --allow-local-files slides/base-documentation.md
-
-# PPTX
-npx marp --pdf --theme theme/base.css -o output/tmp.pdf --allow-local-files slides/base-documentation.md
+npx @marp-team/marp-cli@latest --pdf --theme theme/base.css -o output/tmp.pdf --allow-local-files slides/base-documentation.md
 ```
 
 ## To Do
